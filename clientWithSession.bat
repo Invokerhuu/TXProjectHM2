@@ -1,0 +1,1 @@
+ "D:\work\TencentCourse\UnrealEngine-release\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\Netshoot.uproject" MainMenu -game -log -nosteam r.setres 1280x720
